@@ -11,5 +11,4 @@ database: "db123"
 })
 
 
-
 module.exports = pool;
